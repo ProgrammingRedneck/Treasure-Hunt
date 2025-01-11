@@ -24,6 +24,8 @@ def generate_map():
                 game_map[x][y] = "X"
                 break
 
+    # TODO Add loot and equipment.
+
     return game_map
 
 # Display the game grid
